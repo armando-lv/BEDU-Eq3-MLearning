@@ -16,15 +16,14 @@ Seguimos usando nuestros datos recabados de la API de las encuestas hechas en co
 Nuestro objetivo es clasificar la aceptación de la vacuna en México mediante el uso de las herramientas que proporciona el Machine Learning.
 
 ## 📋 Contenido
-- _```Dataset_1-4.csv``` Conjuntos con datos de encuestas acerca del COVID-19, que fueron procesados en el módulo pasado._
+- _```Dataset_1-3.csv``` Conjuntos con datos de encuestas acerca del COVID-19, que fueron procesados en el módulo antepasado._
 - _```Notebook Proyecto Final``` Notebook de Jupyter con todo nuestro código._
-- _```cookie_cats.csv``` Dataset obtenido de una prueba A/B hecha por una compañía en su juego para móviles._
-- _```vaccinations_all_tweets_only_text.csv``` Conjunto de datos de tweets relacionados a las vacunas del COVID-19._
+- _```resultados_encuesta.csv``` Dataset obtenido de las respuestas que obtuvimos en nuestro Google Forms acerca de temas relacionados al COVID._
 
 ## 💻 Recursos adicionales
 - Presentación en Google Slides: https://docs.google.com/presentation/d/1VqyKZFFruRXpEziNiJ2GFyIjF1bpUt-HIAkKcA_4i7I/edit?usp=sharing
 - Proyecto módulo 3 (Fuente de nuestros datos procesados): https://github.com/armando-lv/BEDU-Equipo8-ProcDatos
 - Proyecto módulo 4 (Fuente de algunos de nuestros análisis): https://github.com/armando-lv/BEDU-Equipo3-AnalisisPython
-- Notebook en Colab:
-- Fuente de nuestros datos:
-- Video de presentación:
+- Notebook en Colab: https://colab.research.google.com/drive/1IUJPCq8wATRcdTS37o2mB5emFrnWmuaX
+- Fuente de nuestros datos: https://covidmap.umd.edu/api/country
+- Video de presentación: 
