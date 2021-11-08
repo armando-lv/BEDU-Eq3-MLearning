@@ -10,7 +10,9 @@
 
 ## 👋 Bienvenid@
 Aquí está el proyecto que hemos trabajado a lo largo del curso, desde el módulo 3 de procesamiento de datos. Fue hecho en Python, con ayuda de Jupyter Notebook así como distintas librerías que facilitan el procesamiento, análisis y modelado de datos como Pandas, Scikit Learn y Numpy.
+
 Seguimos usando nuestros datos recabados de la API de las encuestas hechas en conjunto por Facebook y la Universidad de Maryland acerca de varios temas relacionados al COVID-19.
+
 Nuestro objetivo es clasificar la aceptación de la vacuna en México mediante el uso de las herramientas que proporciona el Machine Learning.
 
 ## 📋 Contenido
