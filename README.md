@@ -2,11 +2,11 @@
 ¡Gracias por visitarnos! 😃
 
 ## 🙋 Presentación: Equipo 3
-1. Melina Ávila.
-3. Alejandro Gómora.
-4. Carlos Jiménez.
-5. Carlos Limón.
-6. Armando Lira.
+1. Melina Ávila
+3. Alejandro Gómora
+4. Carlos Jiménez
+5. Carlos Limón
+6. Armando Lira
 
 ## 👋 Bienvenid@
 Aquí está el proyecto que hemos trabajado a lo largo del curso, desde el módulo 3 de procesamiento de datos. Fue hecho en Python, con ayuda de Jupyter Notebook así como distintas librerías que facilitan el procesamiento, análisis y modelado de datos como Pandas, Scikit Learn y Numpy.
