@@ -25,5 +25,4 @@ Nuestro objetivo es clasificar la aceptación de la vacuna en México mediante e
 - Proyecto módulo 3 (Fuente de nuestros datos procesados): https://github.com/armando-lv/BEDU-Equipo8-ProcDatos
 - Proyecto módulo 4 (Fuente de algunos de nuestros análisis): https://github.com/armando-lv/BEDU-Equipo3-AnalisisPython
 - Notebook en Colab: https://colab.research.google.com/drive/1IUJPCq8wATRcdTS37o2mB5emFrnWmuaX
-- Fuente de nuestros datos: https://covidmap.umd.edu/api/country
 - Video de presentación: 
