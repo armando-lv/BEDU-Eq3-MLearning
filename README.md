@@ -3,10 +3,10 @@
 
 ## 🙋 Presentación: Equipo 3
 1. Melina Ávila
-3. Alejandro Gómora
-4. Carlos Jiménez
-5. Carlos Limón
-6. Armando Lira
+2. Alejandro Gómora
+3. Carlos Jiménez
+4. Carlos Limón
+5. Armando Lira
 
 ## 👋 Bienvenid@
 Aquí está el proyecto que hemos trabajado a lo largo del curso, desde el módulo 3 de procesamiento de datos. Fue hecho en Python, con ayuda de Jupyter Notebook así como distintas librerías que facilitan el procesamiento, análisis y modelado de datos como Pandas, Scikit Learn y Numpy.
@@ -25,4 +25,4 @@ Nuestro objetivo es clasificar la aceptación de la vacuna en México mediante e
 - Proyecto módulo 3 (Fuente de nuestros datos procesados): https://github.com/armando-lv/BEDU-Equipo8-ProcDatos
 - Proyecto módulo 4 (Fuente de algunos de nuestros análisis): https://github.com/armando-lv/BEDU-Equipo3-AnalisisPython
 - Notebook en Colab: https://colab.research.google.com/drive/1IUJPCq8wATRcdTS37o2mB5emFrnWmuaX
-- Video de presentación: 
+- Video de presentación: https://youtu.be/8VHTRDAgx5w
